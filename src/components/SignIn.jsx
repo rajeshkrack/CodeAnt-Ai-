@@ -1,6 +1,6 @@
 import React from 'react';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "./ui/tabs"; // Importing Tab components
-import { TabsDemo } from './Tabsdemo'; // Importing another demo component (though not used here)
+import { TabsDemo } from './TabsDemo'; // Importing another demo component (though not used here)
 import RightComp from './RightComp'; // Importing the right-hand component (sign-in form)
 import LeftComp from './LeftComp'; // Importing the left-hand component (image or content)
 
