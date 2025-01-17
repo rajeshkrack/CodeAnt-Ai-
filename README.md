@@ -6,15 +6,9 @@
 # Images of the App
 # Desktop View Images: 
 ![Image 1](https://github.com/rajeshkrack/CodeAnt-Ai-/blob/main/public/Screenshot%202024-12-25%20105902.png)
-![Image 2](https://github.com/rajeshkrack/CodeAnt-AI-Assignment-/blob/main/public/Screenshot%202024-12-25%20105914.png)
-![Image 3](https://github.com/rajeshkrack/CodeAnt-AI-Assignment-/blob/main/public/Screenshot%202024-12-25%20105936.png)
-![Image 4](https://github.com/rajeshkrack/CodeAnt-AI-Assignment-/blob/main/public/Screenshot%202024-12-25%20105948.png)
-
-# Mobile View Images:
-
-![Image 2](https://github.com/rajeshkrack/CodeAnt-AI-Assignment-/blob/main/public/Screenshot%202024-12-25%20105914.png)
-![Image 3](https://github.com/rajeshkrack/CodeAnt-AI-Assignment-/blob/main/public/Screenshot%202024-12-25%20105936.png)
-![Image 4](https://github.com/rajeshkrack/CodeAnt-AI-Assignment-/blob/main/public/Screenshot%202024-12-25%20105948.png)
+![Image 2](https://github.com/rajeshkrack/CodeAnt-Ai-/blob/main/public/Screenshot%202024-12-25%20105914.png)
+![Image 3](https://github.com/rajeshkrack/CodeAnt-Ai-/blob/main/public/Screenshot%202024-12-25%20105936.png)
+![Image 4](https://github.com/rajeshkrack/CodeAnt-Ai-/blob/main/public/Screenshot%202024-12-25%20105948.png)
 
 
 
